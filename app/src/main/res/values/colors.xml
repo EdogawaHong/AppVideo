@@ -5,4 +5,6 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="text_item">#070707</color>
     <color name="bg_itemC">#FBFBF8</color>
+    <color name="text_nav">#FDFDFC</color>
+    <color name="text_toolbar">#FDFDFC</color>
 </resources>

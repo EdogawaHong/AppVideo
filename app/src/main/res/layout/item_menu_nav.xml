@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/_10sdp"
+    android:paddingVertical="@dimen/_10sdp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iconNav"
+        android:src="@drawable/ic_baseline_home_24"
+        android:layout_width="@dimen/_26sdp"
+        android:layout_height="@dimen/_26sdp"/>
+    <TextView
+        android:id="@+id/tvNav"
+        android:text="Trang chủ"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:textColor="@color/text_item"
+        android:textSize="@dimen/_15sdp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_26sdp"/>
+</LinearLayout>
